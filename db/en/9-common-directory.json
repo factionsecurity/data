@@ -1,6 +1,6 @@
 {
   "id": 9, 
-  "title": "Common directory", 
+  "title": "Forceful Browsing", 
   "severity": "medium", 
   "description": {
     "$ref": "#/files/description/9"

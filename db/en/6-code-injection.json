@@ -41,6 +41,10 @@
     {
       "url": "http://perldoc.perl.org/functions/eval.html", 
       "title": "Perl eval documentation"
+    },
+    {
+      "url": "https://portswigger.net/research/server-side-template-injection", 
+      "title": "Server Side Template Injection"
     }
   ]
 }
