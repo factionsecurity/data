@@ -1,0 +1,30 @@
+{
+  "id": 78, 
+  "title": "Certificate Pinning Not Enabled", 
+  "severity": "low", 
+  "description": {
+    "$ref": "#/files/description/78"
+  }, 
+  "fix": {
+    "effort": 60, 
+    "guidance": {
+      "$ref": "#/files/fix/58"
+    }
+  }, 
+  "cwe": [
+    "295"
+  ], 
+  "owasp_top_10": {
+  }, 
+  "tags": [
+    "certificate", 
+    "authorization",
+    "mobile"
+  ], 
+  "references": [
+    {
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Pinning_Cheat_Sheet.html",
+      "title": "OWASP Certificate Pinning Cheat Sheet"
+    }
+  ]
+}
