@@ -19,7 +19,5 @@
     "injection attacks", 
     "xss", 
     "sqli"
-  ], 
-  "references": [
   ]
 }
