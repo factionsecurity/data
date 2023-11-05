@@ -1,0 +1,24 @@
+{
+  "id": 93, 
+  "title": "Generic Broken Access Control", 
+  "severity": "High", 
+  "description": {
+    "$ref": "#/files/description/0"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/0"
+    }
+  }, 
+  "cwe": [
+  ], 
+  "owasp_top_10": {
+  }, 
+  "tags": [
+    "authentication",
+    "authorization"
+  ], 
+  "references": [
+  ]
+}

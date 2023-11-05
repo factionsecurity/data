@@ -1,0 +1,25 @@
+{
+  "id": 96, 
+  "title": "Generic Unvalidated Input", 
+  "severity": "High", 
+  "description": {
+    "$ref": "#/files/description/0"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/0"
+    }
+  }, 
+  "cwe": [
+  ], 
+  "owasp_top_10": {
+  }, 
+  "tags": [
+    "injection attacks", 
+    "xss", 
+    "sqli"
+  ], 
+  "references": [
+  ]
+}

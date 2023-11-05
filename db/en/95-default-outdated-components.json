@@ -1,0 +1,23 @@
+{
+  "id": 94, 
+  "title": "Generic Outdated Components", 
+  "severity": "Low", 
+  "description": {
+    "$ref": "#/files/description/0"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/0"
+    }
+  }, 
+  "cwe": [
+  ], 
+  "owasp_top_10": {
+  }, 
+  "tags": [
+    "outdated components"
+  ], 
+  "references": [
+  ]
+}
