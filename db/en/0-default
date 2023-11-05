@@ -1,0 +1,22 @@
+{
+  "id": 0, 
+  "title": "Default", 
+  "severity": "high", 
+  "description": {
+    "$ref": "#/files/description/0"
+  }, 
+  "fix": {
+    "effort": 50, 
+    "guidance": {
+      "$ref": "#/files/fix/0"
+    }
+  }, 
+  "cwe": [
+    "0"
+  ], 
+  "tags": [
+    "uncategorized"
+  ], 
+  "references": [
+  ]
+}
