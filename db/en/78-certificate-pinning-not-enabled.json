@@ -24,7 +24,7 @@
   "references": [
     {
       "url": "https://cheatsheetseries.owasp.org/cheatsheets/Pinning_Cheat_Sheet.html",
-      "title": "OWASP Certificate Pinning Cheat Sheet"
+      "title": "OWASP Certificate pinning cheat sheet"
     }
   ]
 }
