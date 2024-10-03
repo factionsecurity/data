@@ -19,7 +19,7 @@
   "references": [
     {
       "url": "https://www.owasp.org/index.php/Unrestricted_File_Upload", 
-      "title": "owasp.org"
+      "title": "OWASP - Unrestricted File Upload"
     }
   ]
 }
